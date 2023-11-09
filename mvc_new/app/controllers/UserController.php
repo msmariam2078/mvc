@@ -42,7 +42,7 @@ class UserController {
         ];
         if($this->model->updateUser($data,$id)){
 
-          echo 'updated';
+          echo 'updated now';
           
         }
         else{
