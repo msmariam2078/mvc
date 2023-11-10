@@ -69,7 +69,7 @@ if($this->model->deleteUser($id))
 
 }else{
 
-echo "not";
+echo "not yet";
 
 }
  
